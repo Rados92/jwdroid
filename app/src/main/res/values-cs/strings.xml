@@ -6,7 +6,7 @@ Funkcemi nabitá aplikace pro vedení služby pro svědky Jehovovy, který umož
 
 Nabídka:
  * Pohodlné vedení záznamů z kazatelské služby.
- * Flexibilní režimy zobrazení, vhodné jak pro domy, tak byty.
+ * Flexibilní režimy zobrazení, vhodné pro domy, byty, řadovky, i paneláky.
  * Informace o obvodech, zájemcích, a návštěvách a rozšířené literatuře.
  * Ukládání data a časů všech návštěv.
  * Sledování času tráveného ve službě na stopkách.
@@ -325,4 +325,10 @@ Tags: Jehovah\'s Witnesses, Bible, preaching, ministry, svědkové Jehovovi, Bib
   <string name="msg_revision_notes_1_4_1" formatted="true"><b>Version 1.4.1</b>\n\nAdded a link to <a href="https://plus.google.com/communities/112371364498094492171">Google+ Community</a> to the main menu.\n\nAdded a link to the <a href="https://crowdin.com/project/jwdroid/invite">online translation service</a> to the contribution dialog. Translators are welcome!\n\n<b>Version 1.4.0</b>\n\nUpdated reports to the new 2016 format.\n\nNew modern visual theme.\n\nAdded service year total hour counters to the Reports section.\n\nRemoved placements text templates as they are unneccessary now.\n\nAdded an option to make an in-app donation payment to support the development.\n\nNew placements calculating mode in the Chronometer.\n\nFixed a bug when restoring from the backup failed sometimes.\n\nFixed a bug with disappearing of old report data.</string>
   <string name="chk_chrono_calc_auto"> Použít z návštěv</string>
   <string name="menu_community">Google+ Community</string>
+  
+  <!-- 1.4.1 -->
+    <string name="msg_revision_notes_1_4_1" formatted="true"><b>Version 1.4.1</b>\n\nAdded a link to <a href="https://plus.google.com/communities/112371364498094492171">Google+ Community</a> to the main menu.\n\nAdded a link to the <a href="https://crowdin.com/project/jwdroid/invite">online translation service</a> to the contribution dialog. Translators are welcome!\n\n<b>Version 1.4.0</b>\n\nUpdated reports to the new 2016 format.\n\nNew modern visual theme.\n\nAdded service year total hour counters to the Reports section.\n\nRemoved placements text templates as they are unneccessary now.\n\nAdded an option to make an in-app donation payment to support the development.\n\nNew placements calculating mode in the Chronometer.\n\nFixed a bug when restoring from the backup failed sometimes.\n\nFixed a bug with disappearing of old report data.</string>
+    <string name="chk_chrono_calc_auto">Add from visits</string>
+    <string name="menu_community">Google+ Community</string>
+    
 </resources>
